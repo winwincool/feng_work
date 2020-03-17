@@ -1,4 +1,4 @@
-package HBSC;
+package NumberToLetter;
 
 import java.util.ArrayList;
 

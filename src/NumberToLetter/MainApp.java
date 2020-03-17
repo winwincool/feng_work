@@ -1,11 +1,11 @@
-package HBSC;
+package NumberToLetter;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-public class HSBSTest {
+public class MainApp {
 	public static void main(String args[]) {
 		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
